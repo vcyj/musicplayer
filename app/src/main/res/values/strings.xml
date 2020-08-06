@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MusicMeditatePlayer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="pic_breath">breath</string>
+    <string name="pic_nap">nap</string>
+    <string name="menu_title_home">Home</string>
+    <string name="menu_title_sleep">Sleep</string>
+    <string name="menu_title_meditate">Meditate</string>
+    <string name="menu_title_more">More</string>
+</resources>
